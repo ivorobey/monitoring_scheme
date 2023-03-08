@@ -1,4 +1,4 @@
-# monitoring_scheme
+# monitoring
 
 ![image](https://github.com/ivorobey/monitoring_scheme/blob/main/mon_scheme.jpg)
 
