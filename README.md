@@ -25,4 +25,3 @@
 - Elasticsearch is a search and analytics engine used to store, search, and analyze data. 
   Logstash is the tool used to collect, process, and report data to Elasticsearch
 
-test.
