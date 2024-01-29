@@ -23,5 +23,5 @@
   Minio is deployed as a StatefulSet in Kubernetes, which provides fault resistance and high availability
 
 - Elasticsearch is a search and analytics engine used to store, search, and analyze data. 
-  Logstash is the tool used to collect, process, and report data to Elasticsearch
+  Logstash is the tool used to collect, process, and report data to Elasticsearch.
 
